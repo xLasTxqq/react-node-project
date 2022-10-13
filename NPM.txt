@@ -1,0 +1,11 @@
+npm init -y Инициализировать проект
+npm install express
+npm i -D nodemon
+npm run dev
+БД xlastx r6HZ*!bv3Q..R2w
+npx create-react-app . Создать реакт
+npm i axios react-router-dom mobx mobx-react-lite Привязать реакт и node
+
+req.body - тело запроса post, update
+req.query - get запрос /user/?id=1&name=da
+req.params - параметр после основного запроса /user/id , id - будет параметром, в роутере указать user/:id 
